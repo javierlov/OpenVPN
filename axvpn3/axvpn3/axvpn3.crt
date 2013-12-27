@@ -1,0 +1,61 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 85 (0x55)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=AR, ST=CABA, L=CapitalFederal, O=Sprayette.S.A., CN=sprovs/emailAddress=servidore@sprayette.com.ar
+        Validity
+            Not Before: Mar 18 12:26:00 2011 GMT
+            Not After : Mar 15 12:26:00 2021 GMT
+        Subject: C=AR, ST=CABA, L=CapitalFederal, O=Sprayette.S.A., CN=axvpn3/emailAddress=servidore@sprayette.com.ar
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (512 bit)
+                Modulus (512 bit):
+                    00:a9:2f:e5:19:e6:c4:e6:dc:de:2c:40:96:41:9e:
+                    b0:cb:16:dd:11:3a:0d:96:59:6c:b1:6c:40:63:ab:
+                    eb:ca:d0:db:56:61:ef:5e:f8:be:99:6e:55:75:34:
+                    81:2a:be:38:1d:84:c4:64:7e:90:2f:a1:16:4d:bd:
+                    eb:af:85:ac:85
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                E8:2A:E2:66:AD:E5:AB:5D:E4:DE:27:9B:28:EC:D9:F8:3F:3F:E8:61
+            X509v3 Authority Key Identifier: 
+                keyid:58:27:A9:BE:26:45:47:65:2C:C2:7B:67:A9:35:92:77:46:3F:D3:9D
+                DirName:/C=AR/ST=CABA/L=CapitalFederal/O=Sprayette.S.A./CN=sprovs/emailAddress=servidore@sprayette.com.ar
+                serial:F0:9A:C9:EA:A4:58:B0:FE
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+        04:99:82:36:d1:ab:71:5f:d9:f9:ce:d6:cb:4a:b2:d5:92:69:
+        a5:0f:30:fa:1b:cf:0b:e7:26:ef:3b:3d:67:e3:ba:77:7b:29:
+        03:be:d4:d3:6e:80:61:67:47:8c:ef:71:83:b2:eb:b3:b6:f5:
+        a7:71:01:53:b9:a3:ad:b2:55:80
+-----BEGIN CERTIFICATE-----
+MIIDSjCCAvSgAwIBAgIBVTANBgkqhkiG9w0BAQUFADCBijELMAkGA1UEBhMCQVIx
+DTALBgNVBAgTBENBQkExFzAVBgNVBAcTDkNhcGl0YWxGZWRlcmFsMRcwFQYDVQQK
+Ew5TcHJheWV0dGUuUy5BLjEPMA0GA1UEAxMGc3Byb3ZzMSkwJwYJKoZIhvcNAQkB
+FhpzZXJ2aWRvcmVAc3ByYXlldHRlLmNvbS5hcjAeFw0xMTAzMTgxMjI2MDBaFw0y
+MTAzMTUxMjI2MDBaMIGKMQswCQYDVQQGEwJBUjENMAsGA1UECBMEQ0FCQTEXMBUG
+A1UEBxMOQ2FwaXRhbEZlZGVyYWwxFzAVBgNVBAoTDlNwcmF5ZXR0ZS5TLkEuMQ8w
+DQYDVQQDEwZheHZwbjMxKTAnBgkqhkiG9w0BCQEWGnNlcnZpZG9yZUBzcHJheWV0
+dGUuY29tLmFyMFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKkv5RnmxObc3ixAlkGe
+sMsW3RE6DZZZbLFsQGOr68rQ21Zh7174vpluVXU0gSq+OB2ExGR+kC+hFk2966+F
+rIUCAwEAAaOCAUEwggE9MAkGA1UdEwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3kt
+UlNBIEdlbmVyYXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQU6CriZq3lq13k3ieb
+KOzZ+D8/6GEwgb8GA1UdIwSBtzCBtIAUWCepviZFR2UswntnqTWSd0Y/052hgZCk
+gY0wgYoxCzAJBgNVBAYTAkFSMQ0wCwYDVQQIEwRDQUJBMRcwFQYDVQQHEw5DYXBp
+dGFsRmVkZXJhbDEXMBUGA1UEChMOU3ByYXlldHRlLlMuQS4xDzANBgNVBAMTBnNw
+cm92czEpMCcGCSqGSIb3DQEJARYac2Vydmlkb3JlQHNwcmF5ZXR0ZS5jb20uYXKC
+CQDwmsnqpFiw/jATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwDQYJ
+KoZIhvcNAQEFBQADQQAEmYI20atxX9n5ztbLSrLVkmmlDzD6G88L5ybvOz1n47p3
+eykDvtTTboBhZ0eM73GDsuuztvWncQFTuaOtslWA
+-----END CERTIFICATE-----
